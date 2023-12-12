@@ -1,5 +1,7 @@
-# XFCE4-on-Termux
-menginstall xfce desktop di android melalui termux
+**Syarat**
+- root
+- otak
+- sabar
 
 # XFCE4-on-Termux
 menginstall xfce desktop di android melalui termux
