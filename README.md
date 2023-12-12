@@ -23,6 +23,7 @@ install termux x11 baik di termux maupun di android
 pkg install termux-x11-nightly
 ```
 **_install di android_**
+
 unduh dan install melalui [github](https://github.com/termux/termux-x11/releases), sesusikan dengan versi processor anda, jika bingung pilih universal saja
 ## 5. settings termux
 ini aku kurang paham fungsinya apa, jadi mau diskip juga gpp
