@@ -15,11 +15,11 @@ pkg install xfce4
 ```
 ## 4. install termux x11
 install termux x11 baik di termux maupun di android
-### 		_instal x11 di termux_
+**_instal x11 di termux_**
 ```markdown
 pkg install termux-x11-nightly
 ```
-### 		_install di android_
+**_install di android_**
 unduh dan install melalui [github](https://github.com/termux/termux-x11/releases), sesusikan dengan versi processor anda, jika bingung pilih universal saja
 ## 5. settings termux
 ini aku kurang paham fungsinya apa, jadi mau diskip juga gpp
