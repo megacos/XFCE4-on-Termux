@@ -17,6 +17,7 @@ pkg install xfce4
 ```
 ## 4. install termux x11
 install termux x11 baik di termux maupun di android
+
 **_instal x11 di termux_**
 ```markdown
 pkg install termux-x11-nightly
